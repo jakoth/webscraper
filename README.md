@@ -1,2 +1,2 @@
 # webscraper
-Using jsoup library &amp; a web archive, this program scrapes data and tables to produce stock data and analytics.
+Using jsoup library; a web archive, this program scrapes data and tables to produce stock data and analytics.
