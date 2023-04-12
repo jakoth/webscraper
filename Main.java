@@ -16,7 +16,7 @@ import org.jsoup.nodes.Element;
 public class Main {
 
     public static void main(String[] args) {
-	final String url= "https://web.archive.org/web/20190104110157/http://shares.telegraph.co.uk/indices/?index=MCX";
+		final String url= "https://web.archive.org/web/20190104110157/http://shares.telegraph.co.uk/indices/?index=MCX";
 
         try {
         final Document doc= Jsoup.connect(url).get();
